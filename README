@@ -1,2 +1,4 @@
-1. Read in models in both zip and txt format - DONE
-2. 
+1. Read in models in both zip and txt format
+2. Smooth BT Settl models down to SpeX resolution and save them as ...sed.txt = SED library. Look up smooth function in SPLAT.
+3. Measure photometry in set filters, including SDSS (AB=True for those).
+4. Create a table with all the photometry for all the filters and models.
